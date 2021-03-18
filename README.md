@@ -1,34 +1,139 @@
 # START Hack 2021 - Microsoft Case
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+Patients are often confronted with a lot of medical information. 
+Aside from the sheer amount of information available online, the specific **«medical jargon»** is often confusing and discouraging, even sometimes for those trained in medical professions.
 
+
+Just imagine you are a patient that just got a severe medical diagnosis.
+Talking to your doctor for a few minutes leaves you with more open questions than answers. 
+Browsing the internet for hours is overwhelming, and it's hard to assess quickly which information is actually **relevant** and **trustworthy**.
+
+And even if you know that - reading a medical report or a  research paper can be very discouraging if you can't easily **understand** the key points of it. 
+
+
+
+
+
+ 
+**We're looking for innovative, state-of-the-art contributions  to make medical texts easier to understand for patients.**
+
+
+Some ideas:
+
+* Use NLP and machine learning services to extract, parse & analyze medical texts in high quality across different medical domains, languages and document types.
+* Build intuitive, personalized user experiences that empower patients to understand complicated concepts and «medical jargon» 
+* Provide relevant context and a "trust score" for documents that a patient found online
+* Automatic summarization, (visual) storytelling and illustration of concepts and key statements found in a particular medical document.
+
+
+Although not necessary, please have a look at our existing prototype, http://summed.org - your solution could build upn it, add some new ideas or go a totally different route - your choice !
+
+
+
+---
 ### Case Pitch
-Insert your Pitch Video or Slides here
+TBD
 
+
+---
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+TBD
 
+
+
+---
 ### Further Information
-Insert any further information about the hack case, the topic and related projects.
-Give as much context as possible, in order to give your coders a head start!
+This case is a continuation of a project we started during another hackathon.
+Although it's not required, it would be great if we could somehow see how your contribution could be used to take this to the next level:
+
+- SumMed.org Homepage: https://summed.org
+- GitHub Repos: TBD
+- Demo video: https://vimeo.com/505431788
+
+
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+#### Azure 
+- Redeem your Azure Pass voucher (ask us on Discord about it): https://www.microsoftazurepass.com/
 
+- Azure Cognitive Services: https://docs.microsoft.com/en-us/azure/cognitive-services/
+
+- Azure Text Analytics for Health: https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?tabs=ner
+
+- Azure Computer Vision OCR: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text
+
+
+- Azure Immersive Reader: https://docs.microsoft.com/en-us/azure/cognitive-services/immersive-reader/
+
+- Azure Web App for Containers: https://azure.microsoft.com/en-us/services/app-service/containers/#overview
+
+- Azure API Apps: https://azure.microsoft.com/en-us/services/app-service/api/
+
+- Azure Functions (Serverless): https://docs.microsoft.com/en-us/azure/azure-functions/
+
+
+
+- Bing custom search: https://www.customsearch.ai/
+
+
+- Microsoft Learn: https://docs.microsoft.com/en-us/learn/browse/?expanded=azure&products=azure
+
+
+
+#### Open Source Libraries and 3rd party services:
+Use whatever you like and know best, but here are some suggestions we tried with our previous prototype:
+
+- spaCy (Python NLP framework): https://spacy.io/ 
+- Gensim TextRank Summariser (Extractive text summarization): 
+https://radimrehurek.com/gensim_3.8.3/summarization/summariser.html
+- Apache Tika (Text extraction): https://tika.apache.org/
+- ANT Design (React components): https://ant.design/components/overview/
+- Merriam Webster Medical Dictionary: https://dictionaryapi.com/
+
+
+
+
+---
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+We're looking for submissions that show potential to **empower patients** to better understand medical information.
+
+Some additional criteria we will look at:
+- **Creativity** and "novelty" of the solution
+- **Trainability** e.g. can we easily improve the models as we get access to additional training documents (like anonymized MRI reports etc.)
+- **Technical feasibility and efficiency** e.g. "simple webapp + fast ML model" is better than "requires a 100x GPU cluster to run"
+- **User Experience** / UX (if you build something with an UI)
+- **Input Languages** supported (bonus points for supporting e.g. German/French, as many language models are english only)
+- Use **Azure services** (where it makes sense - not required) ;-) 
+- Use stable, well supported **Open Source** libraries and  tech stack
+- **State of the art** algorithms and (language) models. (but see the point for "efficiency" - 0.5% more accuracy is not worth spinning up 10 more servers) 
+
+... and your pitch of course :D 
+
+
 
 ### Point of Contact
-List all available mentors here.
 
+```
+Florian Georg (Microsoft) https://github.com/faxg 
+
+Iwan Bolzern (Zühlke)  https://github.com/iwanbolzern 
+Adrian Damm	(Zühlke) https://github.com/mottbott
+Michal Turzynski (Zühlke) https://github.com/michal-turzynski
+Lorenz Wolf	(Zühlke) https://github.com/LoW0lf
+```
+ 
+
+
+
+
+---
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
+... occasionally. Better hit us up on Discord :D
 
+
+---
 ### Prize
-Let the participants know what will be expecting the winning Team!
+
+The winning team will get an XBOX Series S (1 per person), plus all the fame and glory for being awesome and contributing to our initative to empower patients :)
+
