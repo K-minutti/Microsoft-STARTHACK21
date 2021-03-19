@@ -35,7 +35,6 @@ Although not necessary, please have a look at our existing prototype, http://sum
 ### Case Pitch
 https://vimeo.com/525856121
 
-<iframe src="https://player.vimeo.com/video/525856121?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Start Global Hackathon 2021 - Microsoft Case Pitch"></iframe>
 
 
 ---
