@@ -33,12 +33,16 @@ Although not necessary, please have a look at our existing prototype, http://sum
 
 ---
 ### Case Pitch
-TBD
+https://vimeo.com/525856121
+
+<iframe src="https://player.vimeo.com/video/525856121?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Start Global Hackathon 2021 - Microsoft Case Pitch"></iframe>
 
 
 ---
 ### Deep Dive Slides
-TBD
+The deep dive will be a walk through of our existing portotype code 
+and some Q&A around how to get started and what we'll look for in detail.
+
 
 
 
@@ -48,7 +52,9 @@ This case is a continuation of a project we started during another hackathon.
 Although it's not required, it would be great if we could somehow see how your contribution could be used to take this to the next level:
 
 - SumMed.org Homepage: https://summed.org
-- GitHub Repos: TBD
+- GitHub Repos: 
+    - API: https://github.com/whatchacallit/medjargonbuster-api
+    - Web frontend: https://github.com/whatchacallit/medjargonbuster-webapp
 - Demo video: https://vimeo.com/505431788
 
 
